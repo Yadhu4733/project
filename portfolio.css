@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+
+.one{
+    color: black;
+    text-decoration: none;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.two{
+    justify-content: right;
+}
+.three{
+    width: 20px;
+}
+.four{
+    width: 34px;
+}
+.txt{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.five{
+    
+    
+    font-family: 'Josefin Sans', sans-serif;
+    padding-top: 320px;
+    color: rgb(0, 0, 55);
+    font-size: 90px;
+   
+    
+}
+.bg{  background-color: rgb(237, 237, 237);}
+.six{
+   
+   
+    font-family: 'Josefin Sans', sans-serif;
+}
+.fnt{
+    color: black;
+    font-size: 20px;
+}
+.seven{
+    padding-left: 100px;
+}
+/* .pulse {
+  animation: pulse 1s infinite ease-in-out alternate;
+}
+@keyframes pulse {
+  from { transform: scale(0.8); }
+  to { transform: scale(1.2); }
+} */
+
+.prg{
+    padding-top: 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.btn{
+        background-color: rgb(255, 0, 0); 
+        color: white; 
+        border-radius: 0px;
+        margin-top: 30px;
+        height: 50px;
+        width: 180px;
+        
+    }
+      
+.btn:hover {
+        background-color: rgb(0, 195, 45);
+        color: white;
+      }
+
+.bg2{
+    background-color: white;
+}
+.st2{
+    margin-top: 200px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 60px;
+   
+
+}
+.prs{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+
+}
+.lr{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: red;
+    padding-left: 150px;
+}
+
+
+
+
+.img1 {
+    
+    position: relative;
+    overflow: hidden;
+}
+.img1 img {
+    width: 100%;
+    height: auto; 
+    transition: transform 0.3s, opacity 0.3s;
+}
+.img1:hover img {
+    transform: scale(1.1); 
+    opacity: 0.8s; 
+}
+
+.imgg1{
+    width: 740px;
+    
+}
+.imgg2{
+    width: 355px;
+}
+.r3{
+    margin-top: 200px;
+}
+.st3{
+    margin-top: 200px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.st4{
+    text-align: center;
+    font-size: 18px;
+    opacity: 0.7;
+}
+.r{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    padding-left: 150px;
+}
+.btn1{
+    background-color: rgb(255, 0, 0); 
+    color: white; 
+    border-radius: 0px;
+    height: 60px;
+    width: 300px;
+
+    
+}
+  
+.btn1:hover {
+    background-color: rgb(0, 195, 45);
+    color: white;
+  }
+  .vid{
+    width: 100%;
+    padding-top: 150px;
+  }
+  .raa{
+    margin-top: 200px;
+  }
+  .p{
+    opacity: 0.7;
+  }
+
+  .d1{
+    border: 2px;
+    height: 300px;
+    width: 100%;
+    background-color: rgb(230, 1, 1);
+    margin-top: 250px;
+  }
+  .icn{
+    color: white;
+    font-size: 40px;
+   
+
+    
+  }
+  .v{
+    color: white;
+    left: 20px;
+  }
+    .pd-t{
+    padding-top: 120px;
+  }
+  .w{
+    color: white;
+    font-size: 15px;
+    padding-top: 15px;
+  }
+  .x{
+    margin-top: 250px;
+  }
+  .y{
+    font-size: 17px;
+    opacity: 0.7;
+  }
+  .m{
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+  }
+  .n{
+    color: red;
+    font-size: 20px;
+  }
+  .o{
+    text-decoration: none;
+    color: black;
+    
+  }
+  .u{
+    padding-left: 230px;
+  }
